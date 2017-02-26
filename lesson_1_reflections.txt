@@ -1,0 +1,21 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: When I compare two different versions I can find what is different. That can give me a hint 
+what was changed to introduce a bug.
+
+Q: How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+A: It gives you an opportunity to analyze your mistakes. You can experiments without fear.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: The command git log lists all commits in a repository. The command git diff allows to compare 
+two different commits using commit ID.
+
+Q: How might using version control make you more confident to make changes that could break something?
+A: Now, when I know I always can revert the changes I made I don't worry about breaking something.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: First I want to finish the second lesson. Then I would like to play wih my iOS repositories
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When I initialize a repository I create a hidden folder where the git system keeps all suppliment
+files and metadata.
