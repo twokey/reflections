@@ -1,8 +1,11 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: Please see answers for lesson 1
 
-How is the staging area different from the working directory and the repository?
+Q: How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+A: Staging area is a virtual part of repository. One can put files to staging area
+to organize them into one commit. Working directory instead is an actual folder where
+a user keeps his files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
