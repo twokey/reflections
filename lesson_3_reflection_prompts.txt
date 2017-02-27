@@ -9,10 +9,12 @@ A: It is more convenient to pull changes manually because when someone push chan
 GitHub it will create a new commit. Probably I don't want to have that commit in my 
 local repository.
 
-Describe the differences between forks, clones, and branches.  When would you
+Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+A: Forks are copies of the same repository on GitHub. Clones are coppies of the same
+repository on GitHub and local computer. Also, it is possible to create clones on a 
+local machine. Technically forks are clones on GitHub. Branches are differen labels
+for commits on local repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
