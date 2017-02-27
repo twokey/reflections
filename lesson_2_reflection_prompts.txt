@@ -7,16 +7,28 @@ A: Staging area is a virtual part of repository. One can put files to staging ar
 to organize them into one commit. Working directory instead is an actual folder where
 a user keeps his files.
 
-How can you use the staging area to make sure you have one commit per logical
+Q: How can you use the staging area to make sure you have one commit per logical
 change?
+A: I can add to staging areas only those files which belong to this logical change.
+Then I can commit the change and only those files in staging are will be added to
+the commit.
 
-What are some situations when branches would be helpful in keeping your history
+Q: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+A: When I want to try a new feature or test some changes.
 
-How do the diagrams help you visualize the branch structure?
+Q: How do the diagrams help you visualize the branch structure?
+A: Diagrams make it cleare how many commits on each branch and where we are on 
+that diagram.
 
-What is the result of merging two branches together? Why do we represent it in
+Q: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+A: When we merge two branches together we create a new commit, which includes 
+changes from both branches. We represent merge in the diagram, the way we do
+because no instead of two branches we have on with all updates from them.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+A: Git can save a lot of time by merging automatically, but it introduces a risk
+of merging two commits in such a way that nothing works. We can merge manually
+to avoid that risk. However it takes more time and eforts.
