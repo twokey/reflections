@@ -26,7 +26,11 @@ and what would be harder?
 A: We would have to send folders to each other and review what we should update.
 It would very complicated, since no pull request functionality if implemented.
 
-When would you want to make changes in a separate branch rather than directly in
+Q: When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+A: I would make changes in a separate branch whenever I want to create a new feature
+and collaborate with others. I can create a new branch build and compile it. Then
+I can push updates to GitHub and make a pull request so that they can be incorporated
+into the main stable version of the project we are working on as a community.
+It is more straightforward to work on masterbranch, but than you can't update a pull
+request for example.
