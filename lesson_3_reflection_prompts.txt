@@ -16,10 +16,10 @@ repository on GitHub and local computer. Also, it is possible to create clones o
 local machine. Technically forks are clones on GitHub. Branches are differen labels
 for commits on local repository.
 
-What is the benefit of having a copy of the last known state of the remote
+Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+A: One can work onffline when he has last known state locally. Also he can 
+analyze if there is any significant difference and update local version accordingly
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
