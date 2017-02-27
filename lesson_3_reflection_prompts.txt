@@ -21,10 +21,10 @@ stored locally?
 A: One can work onffline when he has last known state locally. Also he can 
 analyze if there is any significant difference and update local version accordingly
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+Q: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+A: We would have to send folders to each other and review what we should update.
+It would very complicated, since no pull request functionality if implemented.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
